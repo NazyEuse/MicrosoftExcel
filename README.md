@@ -15,4 +15,7 @@ Transformar y visualizar los datos que permita a los porpietarios de la tienda o
    - esta categoria ha experimentado una disminucion constante en las ventas al coprarla con otras como ropa y belleza
      
 
-<img width="326" alt="a la nube" src="https://github.com/NazyEuse/MicrosoftExcel/assets/135792868/64c42e61-f173-4c87-bcb0-c1e8479f610d">
+<img width="377" alt="image" src="https://github.com/NazyEuse/MicrosoftExcel/assets/135792868/5245592d-bdb8-448b-b233-24366f466a69">
+
+### Codigo utilizado en el analisis
+``` SELECT * FROM table ```
